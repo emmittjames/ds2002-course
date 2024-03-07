@@ -39,3 +39,4 @@ presigned_url = upload_to_s3_and_generate_presigned_url(bucket_name, file_path, 
 
 print("Presigned URL:", presigned_url)
 
+#https://ds2002-gwu8ek.s3.amazonaws.com/rotunda.jpg?AWSAccessKeyId=ASIATCKAQDQ6VJAWGMPC&Signature=%2FW4UjdynPmDFeJP2FebMS9fBflY%3D&x-amz-security-token=FwoGZXIvYXdzEM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDKZfIhYo%2Bo6apTgghyLEAbRd0zOZRZCz8NFGTp8FJJuI%2BjAoD9%2BgUrrbOZ6UG6BvMHcyjzFCZZNu%2B3NoqTiayEwWjhxXlvSMLgVRdPbrcOgJrVdJ1%2BOFB%2BKmNFp%2BvKXDI7s0iS95bnhTwafynrRWaETIIS4BsqfecyX4OLDg9ctdHEoW2oirS7xwdjEtgkzSIjLML3lHZ9G6CT6E4%2B2nC2tFb16FasfBFeEdHlifbQwon68cnk2yOag9zg8ObxKWjQYM1RtbtWQBKW8pJiTeDUbi%2BOwoqpilrwYyLecGGb5NYKPChZRE%2F2mJEDfPoerBufuXJ4gnltp9VTNcWaAn%2FO6Mlas3xOEH%2FQ%3D%3D&Expires=1710393569

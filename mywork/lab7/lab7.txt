@@ -1,0 +1,4 @@
+SELECT tracking.file, tracking.step, owners.name 
+FROM tracking INNER JOIN owners 
+ON tracking.owner = owners.owner WHERE owners.training=0
+ORDER BY tracking.updated ASC;
